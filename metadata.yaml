@@ -1,5 +1,8 @@
 _repo: Geography-of-the-Land_63036
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63036-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ogden, Herbert G. (Herbert Gouverneur)
@@ -16,6 +19,8 @@ description:
   1891'
 - Annual report [1891] by vice-president [of the National Geographic Society], Herbert
   G. Ogden.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63036#Geography-of-the-Land
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
