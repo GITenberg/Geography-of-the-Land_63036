@@ -1,0 +1,32 @@
+_repo: Geography-of-the-Land_63036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ogden, Herbert G. (Herbert Gouverneur)
+    aliases:
+    - Ogden, H. G. (Herbert Gouverneur)
+    - Ogden, Herbert Gouverneur
+    birthdate: 1846
+    deathdate: 1906
+    gutenberg_agent_id: '52242'
+    url: http://www.gutenberg.org/2009/agents/52242
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Gouverneur_Ogden
+description:
+- 'Reprinted from: The National Geographic Magazine, Vol. III., PP. 31-40, April 30,
+  1891'
+- Annual report [1891] by vice-president [of the National Geographic Society], Herbert
+  G. Ogden.
+gutenberg_issued: '2020-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Geography'
+- GITenberg
+title: Geography of the Land
+url: http://www.gutenberg.org/ebooks/63036
